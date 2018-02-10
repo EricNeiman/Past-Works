@@ -1,0 +1,17 @@
+Eric Neiman
+Individual Assignment 02 Instructions (Server and Client Communication)
+The program was made in Java
+
+The following words or phrases are in Synonyms.txt and when Client.java is run, after ServiceBroker.java (the server) is started, the words or phrases in the left
+column will return their corresponding synonym.
+Word/Phrase	(input)		Synonym (output)
+good					great
+bad						terrible
+cold					cool
+hot						warm
+wet						moist
+very hot				scalding
+not possible			impossible
+frightened				scared
+
+I wrote the program in Eclipse. The port I used was 5134. 
